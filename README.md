@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulptl2002
 - 👀 I’m interested in Data Science / Machine Learning
-- 🌱 I’m currently learning DS and CS @ Montclair State
+- 🌱 I’m currently studying DS and CS @ Montclair State
 - 📫 How to Reach Me: rahul.ptl2002@gmail.com
 
 <!---
