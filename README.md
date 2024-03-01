@@ -1,4 +1,4 @@
-I am a junior at Montclair State University studying Data Science and Computer Science.
+I am a junior at Montclair State University studying Data Science and Computer Science!
 
 Technical Skills – 
 1. Areas of Interest: Machine Learning, Data Analysis/Science, and Artificial Intelligence
