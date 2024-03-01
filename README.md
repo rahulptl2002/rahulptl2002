@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @rahulptl2002
-- 👀 I’m interested in Data Science / Machine Learning
-- 🌱 I’m currently studying DS and CS @ Montclair State
-- 📫 How to Reach Me: rahul.ptl2002@gmail.com
+I am a junior at Montclair State University studying Data Science and Computer Science.
+
+Technical Skills – 
+1. Areas of Interest: Machine Learning, Data Analysis/Science, and Artificial Intelligence
+2. Programming Languages: Java, R, SQL, Python, C, Tableau, and Julia
+
+If you have similar areas or interests or have an opportunity for me, let’s connect! You can contact me at rahul.ptl2002@gmail.com
 
 <!---
 rahulptl2002/rahulptl2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
